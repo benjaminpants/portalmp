@@ -10,3 +10,7 @@ cfg\config.cfg
 cfg\settings.scr
 *.tmp
 *.cache
+*.cfg
+*.hl3
+serverconfig.vdf
+cfg/config.cfg
