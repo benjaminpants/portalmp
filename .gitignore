@@ -1,0 +1,12 @@
+*.lst
+*.ain
+*.sav
+*.hl1
+*.hl2
+*.hl3
+*.hl4
+serverconfig.vdf
+cfg\config.cfg
+cfg\settings.scr
+*.tmp
+*.cache
