@@ -8,10 +8,15 @@
 serverconfig.vdf
 cfg\config.cfg
 cfg\settings.scr
+sound.cache
+demoheader.tmp
 *.tmp
 *.cache
 *.cfg
 *.hl3
+*.log
+*.prt
 serverconfig.vdf
 cfg/config.cfg
 serverconfig.vdf
+downloadlists\
