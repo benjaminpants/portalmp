@@ -1,7 +1,7 @@
 # portal 1 multiplayer
 "fixes" multiplayer for portal 1
 
-its a source mod, install it like a source mod dummy
+its a source mod, install it like a source mod dummy(download the github)
 
 run sv_client_predict 0 when starting a server
 
