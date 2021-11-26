@@ -9,9 +9,10 @@ servers must have a max player count of 32, no more, no less.
 
 stuff will be broken for obvious reasons
 
-includes an (incomplete) version of the campaign designed for multiplayer, playable assuming everyone has a low ping, higher pings can result in velocities not being applied
+includes an (incomplete) version of the campaign designed for multiplayer, playable assuming everyone has a low ping, higher pings can result in velocities not being applied when going through portals
 
 still prone to random crashing but a lot less
 
 i literally changed a single byte using a hex editor and that fixed portals for the most part
 
+ps: if you make a PR that fixes the clutter i will love you forever 
